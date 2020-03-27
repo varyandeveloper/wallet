@@ -1,4 +1,4 @@
-## Physical Money Wallet
+## Virtual Money Wallet
 
 ## Installation
 
