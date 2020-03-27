@@ -22,6 +22,8 @@
    * Wallets count 
    * his/her total balance by system currency
 * System currency can be defined in currency.php config
+* Easy To add new currency exchange provider
+* Command to update exchange rates: php artisan currency-update-vault
 
 ## Testing
 
